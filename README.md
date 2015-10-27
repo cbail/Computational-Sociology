@@ -1,3 +1,10 @@
 # Computational-Sociology
-This is a folder for my Computational Sociology Course
+This is a project for the group projects in my Computational Sociology Course.
+
+This let's us collaborate in real time, and share code
+
+```{r}
+print(hello world)
+```
+
 test
