@@ -1,10 +1,8 @@
 # Computational-Sociology
-This is a project for the group projects in my Computational Sociology Course.
 
-This let's us collaborate in real time, and share code. We can also use "Markdown" files like this to
-share bits of code in the form of "code blocks"
+This repository is for materials and group projects associated with my Computational Sociology course at Duke University. Here you will find the class slides, annotated r code, and data that we use in the class.
 
-```{r}
-print("hello world")
-```
+All the best,
+Chris
+
 
